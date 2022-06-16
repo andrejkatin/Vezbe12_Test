@@ -10,6 +10,7 @@ namespace Vezbe12_Test1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("First push.");
 
             Console.WriteLine("Second commit.");
         }
